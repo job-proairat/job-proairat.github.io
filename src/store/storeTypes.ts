@@ -1,9 +1,0 @@
-// mutations
-export const UPDATE_SEARCH = 'UPDATE_SEARCH';
-export const FILL_STARSHIPS = 'FILL_STARSHIPS';
-export const CONSTRUCTION_URL_PARAMS = 'CONSTRUCTION_URL_PARAMS';
-export const DATABASE_FILL = 'DATABASE_FILL';
-export const DATABASE_CLEAN = 'DATABASE_CLEAN';
-
-// actions
-export const GET_STARSHIPS = 'GET_STARSHIPS';
